@@ -2,8 +2,8 @@
 
 # Scalable Architecture Video Content
 
-    https://www.youtube.com/watch?v=tQ2V9QSv48M
-    https://www.youtube.com/watch?v=yeyugGZO2qc
+    [a link] https://www.youtube.com/watch?v=tQ2V9QSv48M
+    [a link] https://www.youtube.com/watch?v=yeyugGZO2qc
 
 # Good Blogs Sites
 
