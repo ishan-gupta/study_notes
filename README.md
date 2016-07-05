@@ -1,4 +1,3 @@
-**study_notes**
 
 ###Scalable Architecture Video Content
 - [Best Practices for Scaling Web Apps] (https://www.youtube.com/watch?v=tQ2V9QSv48M)
