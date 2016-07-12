@@ -15,6 +15,7 @@
 ####Design Pattern
 - [OOD Design] (http://www.oodesign.com/)
 - [SOA Pattern Blogs] (http://martinfowler.com/eaaCatalog/index.html)
+- [Grep the Web Architecture] (https://aws.amazon.com/articles/1632)
 
 #### Distributed System
 - [CAP Theorem] (https://codahale.com/you-cant-sacrifice-partition-tolerance/)
