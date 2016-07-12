@@ -8,6 +8,7 @@
 ####Good Blogs Sites
 - [Yahoo Blogs] (https://developer.yahoo.com/performance/rules.html)
 - [Scalable Web Architecture and Distributed System] (http://www.aosabook.org/en/distsys.html)
+- [Amazon SQS White Paper] (http://sqs-public-images.s3.amazonaws.com/Building_Scalabale_EC2_applications_with_SQS2.pdf)
 
 ####System Design Interview
 - [Interview System Design Graph] (http://www.hiredintech.com/system-design)
