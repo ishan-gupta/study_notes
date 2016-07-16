@@ -5,10 +5,11 @@
 - [Scalable Distributed Design] (https://www.youtube.com/watch?v=E9GFA-YkzFY)
 - [Building Software Systems At Google and Lessons] (https://www.youtube.com/watch?v=modXC5IWTJI)
 
-####Good Blogs Sites
+####Good Blogs Sites, Reading
 - [Yahoo Blogs] (https://developer.yahoo.com/performance/rules.html)
 - [Scalable Web Architecture and Distributed System] (http://www.aosabook.org/en/distsys.html)
 - [Amazon SQS White Paper] (http://sqs-public-images.s3.amazonaws.com/Building_Scalabale_EC2_applications_with_SQS2.pdf)
+- [AWS best practices] (https://media.amazonwebservices.com/AWS_Cloud_Best_Practices.pdf)
 
 - 
 ####System Design Interview
