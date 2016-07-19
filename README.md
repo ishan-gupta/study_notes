@@ -16,8 +16,8 @@
 - [Interview System Design Graph] (http://www.hiredintech.com/system-design)
 
 ####Good Architecture Papers
--[Google File System] (http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
--[FaceBook Photo Store] (https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
+- [Google File System] (http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [FaceBook Photo Store] (https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 
 ####Design Pattern
 - [OOD Design] (http://www.oodesign.com/)
