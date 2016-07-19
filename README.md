@@ -29,3 +29,4 @@
 #### Distributed System
 - [CAP Theorem] (https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Fallacies of distributed computing] (https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+- [Consistent Hashing] (http://www.tom-e-white.com/2007/11/consistent-hashing.html)
