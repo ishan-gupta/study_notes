@@ -11,7 +11,7 @@
 - [Amazon SQS White Paper] (http://sqs-public-images.s3.amazonaws.com/Building_Scalabale_EC2_applications_with_SQS2.pdf)
 - [AWS best practices] (https://media.amazonwebservices.com/AWS_Cloud_Best_Practices.pdf)
 
-- 
+
 ####System Design Interview
 - [Interview System Design Graph] (http://www.hiredintech.com/system-design)
 
