@@ -4,6 +4,7 @@
 - [Building a Scalable Architecture for Web Apps] (https://www.youtube.com/watch?v=yeyugGZO2qc)
 - [Scalable Distributed Design] (https://www.youtube.com/watch?v=E9GFA-YkzFY)
 - [Building Software Systems At Google and Lessons] (https://www.youtube.com/watch?v=modXC5IWTJI)
+- [Drop Box Architecture] (https://www.youtube.com/watch?v=PE4gwstWhmc)
 
 ####Good Blogs Sites, Reading
 - [Yahoo Blogs] (https://developer.yahoo.com/performance/rules.html)
