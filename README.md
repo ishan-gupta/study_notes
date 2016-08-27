@@ -13,9 +13,9 @@
 - [AWS best practices] (https://media.amazonwebservices.com/AWS_Cloud_Best_Practices.pdf)
 
 ####Million Network call
--[Java nio conf] (https://www.youtube.com/watch?v=uKc0Gx_lPsg)
--[Python async io (David)] (https://www.youtube.com/watch?v=MCs5OvhV9S4)
--[How Do Python Coroutines Work] https://www.youtube.com/watch?v=7sCu4gEjH5I
+- [Java nio conf] (https://www.youtube.com/watch?v=uKc0Gx_lPsg)
+- [Python async io (David)] (https://www.youtube.com/watch?v=MCs5OvhV9S4)
+- [How Do Python Coroutines Work] (https://www.youtube.com/watch?v=7sCu4gEjH5I)
 
 ####System Design Interview
 - [Interview System Design Graph] (http://www.hiredintech.com/system-design)
