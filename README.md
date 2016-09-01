@@ -7,6 +7,7 @@
 - [Drop Box Architecture] (https://www.youtube.com/watch?v=PE4gwstWhmc)
 - [Amazon SQS and Dynamo DB Message Processing (Live Match Poll DashBoard)] (https://www.youtube.com/watch?v=n9pMxdUbBGs)
 - [Amazon SQS + AMAZON SNS UseCase Food Ordering] (https://www.youtube.com/watch?v=zwLC5xmCZUs)
+- [Amazon SQS + DROPBOX Scalable Talk] (https://www.youtube.com/watch?v=mP46FviScYQ)
 
 ####Good Blogs Sites, Reading
 - [Yahoo Blogs] (https://developer.yahoo.com/performance/rules.html)
