@@ -26,6 +26,7 @@
 ####Good Architecture Papers
 - [Google File System] (http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 - [FaceBook Photo Store] (https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
+- [Dynamo DB Deep Dive] (https://www.youtube.com/watch?v=ggDIat_FZtA)
 
 ####Design Pattern
 - [OOD Design] (http://www.oodesign.com/)
